@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>FINTAX - Mantenimiento y Remodelaciones</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .service {
+            margin-bottom: 20px;
+        }
+
+        .price {
+            font-weight: bold;
+            color: #4CAF50;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>FINTAX - Mantenimiento y Remodelaciones de Dispositivos</h1>
+    </header>
+
+    <div class="container">
+        <h2>Bienvenido a FINTAX</h2>
+        <p>Tu solución confiable para el mantenimiento, remodelación y reparación de tus dispositivos electrónicos. Con años de experiencia, brindamos servicios de calidad adaptados a tus necesidades.</p>
+
+        <h2>Nuestros Servicios</h2>
+
+        <div class="service">
+            <h3>1. Mantenimiento de tu equipo o dispositivo</h3>
+            <p>Mantenemos tu dispositivo en óptimo estado, asegurándonos de que todas sus partes funcionen correctamente. Ideal para prolongar la vida útil de tu equipo.</p>
+            <p class="price">Precio: 6,000 colones (CRC)</p>
+        </div>
+
+        <div class="service">
+            <h3>2. Remodelación de piezas del equipo</h3>
+            <p>Actualizamos o reemplazamos componentes de tu equipo para mejorar su rendimiento o darle un nuevo estilo.</p>
+            <p class="price">Precio: Variante según piezas y complejidad.</p>
+        </div>
+
+        <div class="service">
+            <h3>3. Reparación</h3>
+            <p>Reparamos cualquier desperfecto o daño que presente tu dispositivo, devolviéndolo a su funcionalidad original.</p>
+            <p class="price">Precio: 5,000 colones (CRC)</p>
+        </div>
+
+        <div class="service">
+            <h3>4. Paquete Completo</h3>
+            <p>Combina el mantenimiento, remodelación y reparación en un solo paquete. Ideal para un cuidado integral de tu equipo.</p>
+            <p class="price">Precio: Dependiente de los servicios específicos requeridos.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>FINTAX | Lugar: La Tigra de San Carlos | Tel: +506 8964 7960 | Correo: contacto@fintax.cr</p>
+    </footer>
+</body>
+</html>
